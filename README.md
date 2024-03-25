@@ -1,6 +1,6 @@
 # Gemini Clone 
 
-<img width="100%" alt="banner" src="(https://github.com/vaibhavdhok/Imagify/assets/31030257/cdf660a1-b6e9-4c1a-b76008cbfd282b08" />
+<img width="100%" alt="banner" src="(https://github.com/vaibhavdhok/Imagify/assets/31030257/cdf660a1-b6e9-4c1a-b76008cbfd282b08">
 
 The **Gemini** app is a cutting-edge AI application powered by Google's Gemini API, offering users the ability to interact with generative AI models seamlessly. It enables users to leverage multimodal capabilities, including text and image inputs, to generate responses and perform various AI-related tasks.
 
@@ -16,6 +16,7 @@ The **Gemini** app is a cutting-edge AI application powered by Google's Gemini A
 
 ## 🚦Getting Started
 1. Clone the repository to your local machine.
+
     ```bash
    git clone https://github.com/vaibhavdhok/Gemini-C.git
 
